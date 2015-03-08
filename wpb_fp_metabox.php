@@ -15,6 +15,7 @@ function wpb_fp_meta_boxes_setup() {
 
   /* Add meta boxes on the 'add_meta_boxes' hook. */
   add_action( 'add_meta_boxes', 'wpb_fp_add_portfolio_meta_boxes' );
+  add_action( 'add_meta_boxes', 'wpb_fp_add_portfolio_meta_boxes_pro_add' );
 
   /* Save post meta on the 'save_post' hook. */
   add_action( 'save_post', 'wpb_fp_save_portfolio_class_meta', 10, 2 );
@@ -83,3 +84,30 @@ function wpb_fp_save_portfolio_class_meta( $post_id, $post ) {
     delete_post_meta( $post_id, $meta_key, $meta_value );
 }
 
+
+
+/* Pro version add on side meta */
+
+/* Create one or more meta boxes to be displayed on the post editor screen. */
+function wpb_fp_add_portfolio_meta_boxes_pro_add() {
+  $wpb_post_type_select = wpb_fp_get_option( 'wpb_post_type_select_', 'wpb_fp_advanced', 'wpb_fp_portfolio' );
+  add_meta_box(
+    'wpb_fp_portfolio_pro_add',      // Unique ID
+    esc_html__( 'Pro version features', 'wpb_fp' ),    // Title
+    'wpb_fp_portfolio_class_meta_box_pro_add',   // Callback function
+    $wpb_post_type_select, // Admin page (or post type)
+    'side',          // Context
+    'default'         // Priority
+  );
+}
+
+function wpb_fp_portfolio_class_meta_box_pro_add( $object, $box ) { 
+  echo '<div class="wpb_pro_add">';
+      echo '<p>Advance portfolio filtering system.</p>';
+      echo '<p>Three different style for portfolio filter.</p>';
+      echo '<p>Portfolio counting system in toltip.</p>';
+      echo '<p>Priority support & free update.</p>';
+      echo '<p><a class="button button-primary" href="http://wpbean.com/demo/wpb-filterable-portfolio/" target="_blank">Pro Version Demo</a></p>';
+      echo '<p><a class="button button-primary" href="http://wpbean.com/product/wpb-filterable-portfolio/" target="_blank">Upgrade To Pro</a></p>';
+  echo '</div>';
+}

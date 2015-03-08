@@ -226,6 +226,15 @@ class WPB_fp_settings_config {
         echo '<div class="wrap">';
             $this->settings_api->show_navigation();
             $this->settings_api->show_forms();
+            echo '<div class="wpb_pro_add postbox" style="padding: 0 10px;font-weight: bold;">';
+                echo '<h3>Pro version features</h3>';
+                echo '<p>Advance portfolio filtering system.</p>';
+                echo '<p>Three different style for portfolio filter.</p>';
+                echo '<p>Portfolio counting system in toltip.</p>';
+                echo '<p>Priority support & free update.</p>';
+                echo '<p><a class="button button-primary" href="http://wpbean.com/demo/wpb-filterable-portfolio/" target="_blank">Pro Version Demo</a></p>';
+                echo '<p><a class="button button-primary" href="http://wpbean.com/product/wpb-filterable-portfolio/" target="_blank">Upgrade To Pro</a></p>';
+            echo '</div>';
         echo '</div>';
     }
 
