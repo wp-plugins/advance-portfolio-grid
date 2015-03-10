@@ -79,12 +79,8 @@ Go to Portfolio -> Portfolio Settings. Here you will find the option for choosin
 
 == Changelog ==
 
-= 1.0 =
+= version 1.0 =
 * Initial release
-
 
 
 == Upgrade notice ==
-
-= 1.0 =
-* Initial release
