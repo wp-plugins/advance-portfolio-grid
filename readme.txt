@@ -17,10 +17,8 @@ This plugin will add a responsive portfolio grid in your WordPress site.
 This plugin will add a responsive portfolio grid in your WordPress site. Highly customizable. Option for choosing custom post type for portfolio.
 
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-filterable-portfolio/ "Pro Version")
-*   [View a live demo &raquo;](http://demo.wpbean.com/advance-portfolio-grid/)
-*   [Pro Version Demo &raquo;](http://wpbean.com/demo/wpb-filterable-portfolio/ "Pro Version Demo")
+*   [Pro Version Demo &raquo;](http://23.227.167.145/wpbean/demo1/advance-portfolio-grid-pro/ "Pro Version Demo")
 *   [Support &raquo;](http://wpbean.com/support/)
-*   [Wpbean is available for hire &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
 
 See the <a href="http://wordpress.org/plugins/advance-portfolio-grid/screenshots/">screenshots section</a> for visuals on Portfolio Grid plugin features.
 
