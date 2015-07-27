@@ -4,7 +4,7 @@ Plugin Name: Advance Portfolio Grid
 Plugin URI: http://wpbean.com/plugins/
 Description: Advance Portfolio Grid, a highly customizable most advance portfolio plugin for WordPress. Use this shortcode [wpb-portfolio]
 Author: wpbean
-Version: 1.0
+Version: 1.01
 Author URI: http://wpbean.com
 text-domain: wpb_fp
 */

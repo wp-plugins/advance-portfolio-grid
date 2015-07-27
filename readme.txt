@@ -3,7 +3,7 @@ Contributors: wpbean
 Tags: advance portfolio,free portfolio,wordpress portfolio, responsive portfolio, easy portfolio, popup, gallery, responsive gallery, sortable gallery, filtarable gallery, portfolio filter  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Requires at least: 3.6
-Tested up to: 4.1.1
+Tested up to: 4.2.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -79,6 +79,9 @@ Go to Portfolio -> Portfolio Settings. Here you will find the option for choosin
 
 = version 1.0 =
 * Initial release
+
+= version 1.01 =
+* iPad issue fixed.
 
 
 == Upgrade notice ==
