@@ -8,21 +8,22 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will add a responsive portfolio grid in your WordPress site. 
+Best WordPress Portfolio Plugin.
 
 == Description ==
 
-### Advance Portfolio Grid by http://wpbean.com
 
 This plugin will add a responsive portfolio grid in your WordPress site. Highly customizable. Option for choosing custom post type for portfolio.
 
-*   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-filterable-portfolio/ "Pro Version")
-*   [Pro Version Demo &raquo;](http://23.227.167.145/wpbean/demo1/advance-portfolio-grid-pro/ "Pro Version Demo")
-*   [Support &raquo;](http://wpbean.com/support/)
 
-See the <a href="http://wordpress.org/plugins/advance-portfolio-grid/screenshots/">screenshots section</a> for visuals on Portfolio Grid plugin features.
+>[DEMO](http://23.227.167.145/wpbean/demo1/advance-portfolio-grid-pro/)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](http://wpbean.com/product/wpb-filterable-portfolio/)  |  [Screenshots](http://wordpress.org/plugins/advance-portfolio-grid/screenshots/)  |  [Documentation](https://www.youtube.com/watch?v=EuyUcUdspSQ)
 
-Plugin Features:
+### Video Documentation:
+
+https://www.youtube.com/watch?v=EuyUcUdspSQ
+
+
+### Plugin Features:
 
 * Responsive Portfolio Grid.
 * Portfolio column settings. 2/3/4 column portfolio.
@@ -36,7 +37,8 @@ Plugin Features:
 * All modern browser support. 
 * Very Lightweight & many More
 
-Pro features:
+
+### Pro Version Features:
 
 * Advance portfolio filtering system.
 * Three different style for portfolio filter.
