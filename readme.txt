@@ -1,6 +1,6 @@
 === Advance Portfolio Grid ===
 Contributors: wpbean
-Tags: advance portfolio,free portfolio,wordpress portfolio, responsive portfolio, easy portfolio, popup, gallery, responsive gallery, sortable gallery, filtarable gallery, portfolio filter  
+Tags: advance portfolio,free portfolio,wordpress portfolio, responsive portfolio, easy portfolio, popup, gallery, responsive gallery, sortable gallery, filtarable gallery, portfolio filter, best portfolio plugin, best portfolio plugin wordpress,  best portfolio plugin wordpress 2015 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Requires at least: 3.6
 Tested up to: 4.3
